@@ -1,0 +1,8 @@
+For Modality: MR - Number of Images: 1752555
+For Modality: CT - Number of Images: 1454337
+For Modality: PT - Number of Images: 450023
+For Modality: MG - Number of Images: 169661
+For Modality: OT - Number of Images: 6868
+For Modality: US - Number of Images: 534
+For Modality: CR - Number of Images: 134
+For Modality: DX - Number of Images: 8

@@ -1,0 +1,141 @@
+Manufacturer and Model: SIEMENS - TrioTim, Occurences: 1223143
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery IQ, Occurences: 496560
+Manufacturer and Model: SIEMENS - Biograph 64, Occurences: 305338
+Manufacturer and Model: SIEMENS - Aera, Occurences: 267981
+Manufacturer and Model: SIEMENS - SOMATOM Definition AS, Occurences: 197832
+Manufacturer and Model: Philips - Ingenuity TF PET/CT, Occurences: 169322
+Manufacturer and Model: HOLOGIC, Inc. - Selenia Dimensions, Occurences: 151859
+Manufacturer and Model: Philips Healthcare - Ingenia, Occurences: 137010
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery STE, Occurences: 109099
+Manufacturer and Model: GE MEDICAL SYSTEMS - Optima CT580, Occurences: 82188
+Manufacturer and Model: Philips - iCT 256, Occurences: 79373
+Manufacturer and Model: SIEMENS - SOMATOM Drive, Occurences: 75468
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery 710, Occurences: 66920
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery ST, Occurences: 66291
+Manufacturer and Model: SIEMENS - 1093, Occurences: 39213
+Manufacturer and Model: GE MEDICAL SYSTEMS - Signa HDxt, Occurences: 35563
+Manufacturer and Model: GE MEDICAL SYSTEMS - LightSpeed RT16, Occurences: 26876
+Manufacturer and Model: TOSHIBA - Aquilion, Occurences: 26530
+Manufacturer and Model: SIEMENS - Avanto, Occurences: 26084
+Manufacturer and Model: SIEMENS - SOMATOM Definition Flash, Occurences: 17691
+Manufacturer and Model: Siemens - MAGNETOM Vida, Occurences: 14077
+Manufacturer and Model: SIEMENS - Prisma_fit, Occurences: 12163
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery MI, Occurences: 9621
+Manufacturer and Model: Philips - Brilliance 64, Occurences: 9363
+Manufacturer and Model: Philips Medical Systems - Achieva, Occurences: 9003
+Manufacturer and Model: GE MEDICAL SYSTEMS - LightSpeed VCT, Occurences: 7516
+Manufacturer and Model: Philips - Brilliance 16, Occurences: 6574
+Manufacturer and Model: GE MEDICAL SYSTEMS - SIGNA Voyager, Occurences: 5926
+Manufacturer and Model: FUJIFILM Corporation - FDR-3000AWS, Occurences: 5133
+Manufacturer and Model: GE MEDICAL SYSTEMS - SIGNA Architect, Occurences: 5057
+Manufacturer and Model: Siemens Healthineers - SOMATOM go.Up, Occurences: 4224
+Manufacturer and Model: TOSHIBA - Astelion, Occurences: 4204
+Manufacturer and Model: SIEMENS - Perspective, Occurences: 3833
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery CT750 HD, Occurences: 3550
+Manufacturer and Model: Siemens Healthineers - SOMATOM go.Now, Occurences: 3425
+Manufacturer and Model: Siemens HealthCare GmbH - MAGNETOM Vida, Occurences: 3334
+Manufacturer and Model: Philips Medical Systems - Ingenia, Occurences: 3333
+Manufacturer and Model: Hitachi, Ltd. - Supria, Occurences: 3315
+Manufacturer and Model: GE MEDICAL SYSTEMS - BrightSpeed, Occurences: 3309
+Manufacturer and Model: Philips - Brilliance16, Occurences: 2885
+Manufacturer and Model: SIEMENS - SOMATOM Force, Occurences: 2815
+Manufacturer and Model: Siemens Healthineers - SOMATOM go.Top, Occurences: 2747
+Manufacturer and Model: SIEMENS - SOMATOM Perspective, Occurences: 2582
+Manufacturer and Model: SIEMENS - SOMATOM Scope, Occurences: 2384
+Manufacturer and Model: Philips - Brilliance 16P, Occurences: 2370
+Manufacturer and Model: SIEMENS - Symphony, Occurences: 2257
+Manufacturer and Model: GE MEDICAL SYSTEMS - Revolution EVO, Occurences: 2221
+Manufacturer and Model: SIEMENS - SOMATOM go.Now, Occurences: 2038
+Manufacturer and Model: GE MEDICAL SYSTEMS - Optima CT660, Occurences: 2005
+Manufacturer and Model: GE MEDICAL SYSTEMS - Optima CT540, Occurences: 1802
+Manufacturer and Model: HOLOGIC, Inc. - Lorad Selenia, Occurences: 1493
+Manufacturer and Model: Philips - Brilliance 40, Occurences: 1219
+Manufacturer and Model: GE MEDICAL SYSTEMS - LightSpeed Pro 32, Occurences: 1078
+Manufacturer and Model: TOSHIBA - Activion16, Occurences: 1030
+Manufacturer and Model: SIEMENS - Sensation 64, Occurences: 1010
+Manufacturer and Model: SIEMENS - Sensation 16 with Akron Q tube, Occurences: 944
+Manufacturer and Model: SIEMENS - Emotion 6 (2007), Occurences: 851
+Manufacturer and Model: SIEMENS - SOMATOM Definition Edge, Occurences: 811
+Manufacturer and Model: SIEMENS - SOMATOM Definition AS+, Occurences: 766
+Manufacturer and Model: SIEMENS - Biograph 6, Occurences: 724
+Manufacturer and Model: TOSHIBA - Aquilion PRIME, Occurences: 711
+Manufacturer and Model: GE MEDICAL SYSTEMS - Brivo CT385 Series, Occurences: 708
+Manufacturer and Model: SIEMENS - Verio, Occurences: 646
+Manufacturer and Model: SIEMENS - Emotion 16 (2007), Occurences: 621
+Manufacturer and Model: Philips Medical Systems - Intera, Occurences: 619
+Manufacturer and Model: GE MEDICAL SYSTEMS - BrightSpeed S, Occurences: 594
+Manufacturer and Model: SIEMENS - Emotion 16, Occurences: 579
+Manufacturer and Model: Philips Medical Systems - Gyroscan NT Intera, Occurences: 507
+Manufacturer and Model: SIEMENS - MAGNETOM_ESSENZA, Occurences: 478
+Manufacturer and Model: TOSHIBA - Aquilion Prime SP, Occurences: 458
+Manufacturer and Model: SIEMENS - Verio_DOT, Occurences: 453
+Manufacturer and Model: GE MEDICAL SYSTEMS - SIGNA Explorer, Occurences: 446
+Manufacturer and Model: GE Healthcare - LOGIQS8, Occurences: 432
+Manufacturer and Model: SIEMENS - SOMATOM Emotion 16, Occurences: 431
+Manufacturer and Model: Siemens Healthineers - MAGNETOM Vida, Occurences: 411
+Manufacturer and Model: GE MEDICAL SYSTEMS - SIGNA EXCITE, Occurences: 405
+Manufacturer and Model: Philips - Ingenuity Core 128, Occurences: 403
+Manufacturer and Model: SIEMENS - Skyra, Occurences: 311
+Manufacturer and Model: SIEMENS - Sensation Open, Occurences: 271
+Manufacturer and Model: GE MEDICAL SYSTEMS - LightSpeed16, Occurences: 246
+Manufacturer and Model: GE MEDICAL SYSTEMS - Discovery LS, Occurences: 240
+Manufacturer and Model: GE MEDICAL SYSTEMS - SIGNA Creator, Occurences: 240
+Manufacturer and Model: SIEMENS - Espree, Occurences: 231
+Manufacturer and Model: PNMS - MX 16-slice, Occurences: 224
+Manufacturer and Model: SIEMENS - Biograph128, Occurences: 209
+Manufacturer and Model: SIEMENS - Biograph128_mCT, Occurences: 209
+Manufacturer and Model: Hitachi Medical Corporation - Supria, Occurences: 192
+Manufacturer and Model: SIEMENS - Biograph20, Occurences: 192
+Manufacturer and Model: GE MEDICAL SYSTEMS - Optima MR360, Occurences: 174
+Manufacturer and Model: GE MEDICAL SYSTEMS - SIGNA HDe, Occurences: 160
+Manufacturer and Model: Philips - Achieva dStream, Occurences: 159
+Manufacturer and Model: TOSHIBA - Asteion, Occurences: 129
+Manufacturer and Model: GE MEDICAL SYSTEMS - LightSpeed QX/i, Occurences: 114
+Manufacturer and Model: Philips Medical Systems - Gyroscan NT, Occurences: 113
+Manufacturer and Model: SIEMENS - Spectra, Occurences: 96
+Manufacturer and Model: Philips - IntelliSpace Portal, Occurences: 84
+Manufacturer and Model: GE MEDICAL SYSTEMS - DISCOVERY MR750w, Occurences: 77
+Manufacturer and Model: IMS GIOTTO S.p.A. - GIOTTO CLASS, Occurences: 76
+Manufacturer and Model: Philips Medical Systems - NT Intera, Occurences: 76
+Manufacturer and Model: Siemens Healthineers - syngo.via.VB30A, Occurences: 72
+Manufacturer and Model: SIEMENS - Mammomat Fusion, Occurences: 71
+Manufacturer and Model: Siemens Healthineers - syngo.via.VB60A, Occurences: 60
+Manufacturer and Model: IMS s.r.l. - GIOTTO IMAGE 3DL, Occurences: 58
+Manufacturer and Model: Lorad, A Hologic Company - DSM, Occurences: 55
+Manufacturer and Model: IMS s.r.l. - GIOTTO TOMO, Occurences: 48
+Manufacturer and Model: Agfa - DR 17e G - 1200ms, Occurences: 43
+Manufacturer and Model: Siemens Healthineers - syngo.via.VB50A, Occurences: 42
+Manufacturer and Model: SIEMENS - Mammomat Inspiration, Occurences: 40
+Manufacturer and Model: Agfa - CR 85, Occurences: 33
+Manufacturer and Model: Philips Medical Systems - OsiriX, Occurences: 32
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe Essential VERSION ADS_55.41.3, Occurences: 24
+Manufacturer and Model: Sectra Imtec AB - L30, Occurences: 18
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe Essential VERSION ADS_53.40, Occurences: 18
+Manufacturer and Model: CARESTREAM - CR0975, Occurences: 18
+Manufacturer and Model: Philips Digital Mammography Sweden AB - L30, Occurences: 17
+Manufacturer and Model: Agfa - DR 17e C - 1200ms, Occurences: 17
+Manufacturer and Model: GE HEALTHCARE - Senographe_Crystal, Occurences: 12
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe Essential ADS_56.22.2, Occurences: 12
+Manufacturer and Model: KODAK - ELITE CR, Occurences: 11
+Manufacturer and Model: Agfa - Pixium_4343E_CSI, Occurences: 9
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe Essential ADS_56.21.3, Occurences: 8
+Manufacturer and Model: CARESTREAM - Classic CR, Occurences: 6
+Manufacturer and Model: KODAK - CLASSIC CR, Occurences: 6
+Manufacturer and Model: Carestream Health - Image Suite CR0875, Occurences: 6
+Manufacturer and Model: Philips Medical Systems - L50, Occurences: 6
+Manufacturer and Model: GE HEALTHCARE - Senographe Pristina, Occurences: 6
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe_Crystal, Occurences: 6
+Manufacturer and Model: Agfa - DX-M, Occurences: 6
+Manufacturer and Model: Agfa - CR 35, Occurences: 6
+Manufacturer and Model: Planmed - Planmed Clarity, Occurences: 6
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe Essential VERSION ADS_54.10, Occurences: 6
+Manufacturer and Model: Agfa - DXD40_1000G, Occurences: 6
+Manufacturer and Model: HITACHIMEDICAL CORPORATION - EUB-7500, Occurences: 4
+Manufacturer and Model: SIEMENS - MAMMOMAT Revelation, Occurences: 4
+Manufacturer and Model: GE MEDICAL SYSTEMS - SenoIris_1SP2.1(451), Occurences: 2
+Manufacturer and Model: Carestream - DRX-Revolution, Occurences: 2
+Manufacturer and Model: SIEMENS - Fluorospot Compact FD, Occurences: 2
+Manufacturer and Model: Canon Inc. - CANNON DR, Occurences: 2
+Manufacturer and Model: Agfa - AGFA DR600, Occurences: 2
+Manufacturer and Model: GE MEDICAL SYSTEMS - Senographe Essential DBT Reconstruction Box_01.10.4, Occurences: 1
+Manufacturer and Model: Siemens Healthcare - syngo.via.VA11A, Occurences: 1
